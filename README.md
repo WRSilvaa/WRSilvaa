@@ -2,8 +2,7 @@ Hi there 😎
 
 I am Wellington, a passionate Dev.
 
-I work with modern front-end development practices, focusing on creating efficient, accessible, and maintainable user interfaces.  
-My work is centered around clean architecture, responsive layouts, and delivering reliable UI solutions with consistent performance.
+I am building solid foundations in HTML, CSS, and JavaScript with a focus on semantic markup, Flexbox layouts, and clean, maintainable code.
 
 ---
 
@@ -15,8 +14,7 @@ My work is centered around clean architecture, responsive layouts, and deliverin
 
 **Tools & Workflow**
 - Git & GitHub  
-- VS Code  
-- Component-based UI development  
+- VS Code
 - Versioning and clean code practices  
 
 <!---
